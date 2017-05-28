@@ -5,6 +5,11 @@
 * Our [lecture](https://yadi.sk/i/AHDU2p_j3FT3nr), [seminar](https://yadi.sk/i/EeUeheri3FT3ra) (russian)
 * Understanding approximate q-learning - https://danieltakeshi.github.io/2016/10/31/going-deeper-into-reinforcement-learning-understanding-q-learning-and-linear-function-approximation/
 * Karpathy's post on approximate RL - http://karpathy.github.io/2016/05/31/rl/
+* Article on dueling DQN - https://arxiv.org/pdf/1511.06581.pdf
+* Article on double DQN - https://arxiv.org/abs/1509.06461
+* Article on prioritized experience replay - https://arxiv.org/abs/1511.05952
+* Video on asynchronuous methods (Mnih) - https://www.youtube.com/watch?v=9sx1_u2qVhQ
+* Article on bootstrap DQN - https://papers.nips.cc/paper/6501-deep-exploration-via-bootstrapped-dqn.pdf, [summary](http://pemami4911.github.io/paper-summaries/2016/08/16/Deep-exploration.html)
 
 ## More materials
 * __[recommended]__ How to _actually_ do deep reinforcement learning by J. Schulman - http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf
